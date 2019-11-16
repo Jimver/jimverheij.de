@@ -1,7 +1,7 @@
 {
-  "name": "jimverheijde-website",
+  "name": "jimverheij.de",
   "version": "1.0.0",
-  "description": "Personal website of Jim Verheijde",
+  "description": "Personal website of mine",
   "author": "jimver",
   "private": true,
   "scripts": {

@@ -1,4 +1,4 @@
-# jimverheijde-website
+# jimverheij.de
 
 > Personal website of Jim Verheijde
 
